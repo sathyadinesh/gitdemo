@@ -23,6 +23,9 @@ public void home()
 	rl.login().sendKeys("hai");
 	rl.pass().sendKeys("123");
 	rl.proceed().click();
+	System.out.println("for testing git");
+	System.out.println("this is my git");
+	System.out.println("good");
 	
 }
 }
